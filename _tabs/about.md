@@ -1,8 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
 I was biten by the "techno" bug when I was the growing age of 13 when my ever impatient teenage self kept bugging my dad about the computer he was building for me was done yet (the old one got fried). Do to the consitent nagging of myself, my dad needless to say got annoyed with me and aggressively put all the parts into my room and said that "since your so impatient, you can build it"...... so I did. 
 
 Since I couldn't use their computer (and the dial-up connection) to search youtube videos on how to computer, I just had to go for it. At that early age I recongized that the central processing unit (CPU) was keyed to only go in a specific way along with the memory modules of RAM were keyed as well. As I kept plugging things together and relizing that almost everything is keyed to only fit a certain way so that it was difficult to "mess up" on building the computer. 
