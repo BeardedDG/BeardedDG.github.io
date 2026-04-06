@@ -3,6 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
+I was biten by the "techno" bug when I was the growing age of 13 when my ever impatient teenage self kept bugging my dad about the computer he was building for me was done yet (the old one got fried). Do to the consitent nagging of myself, my dad needless to say got annoyed with me and aggressively put all the parts into my room and said that "since your so impatient, you can build it"...... so I did. 
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Since I couldn't use their computer (and the dial-up connection) to search youtube videos on how to computer, I just had to go for it. At that early age I recongized that the central processing unit (CPU) was keyed to only go in a specific way along with the memory modules of RAM were keyed as well. As I kept plugging things together and relizing that almost everything is keyed to only fit a certain way so that it was difficult to "mess up" on building the computer. 
+
+Fast forward to my late high school years and I was able to take classes at the vocational center for my town and got to learn the Cisco IOS and how networks were connected together and just became wildly fascinated by how easy it was for me to understand but also how to get two systems that could potentially be in two different locations talking to each other and sharing information with each other. This ultimately became the equintessential foundation for what I got my bachelor's in. 
+
+After realizing that computer science was more about theory and less hands on, I found the degree program for Information Systems Technologies where I got to think with my brain and work with my hands solving issues of connectivity and really diving into how a network operates for an enterprise and how it can all be connected across the vast space of the internet. In my bachelors I choose to concentrate on Networks and Security (I feel like there was a precurser to this somewhere...) learning how to connect everything while keeping it secure. 
+
+More fast forwarding through all the years of working and learning as I worked, I get to where I am at now where I have found a passion for cybersecurity and have started to transition my career into cybersecurity and chose to document things that I do in my homelab (which also serves as documentation for when things go wrong), but to also in hopes that someone finds it useful in their own journey. 
