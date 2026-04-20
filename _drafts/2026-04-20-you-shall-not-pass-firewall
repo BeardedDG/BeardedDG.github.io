@@ -1,0 +1,7 @@
+---
+title: You Shall Not Pass the Firewall !
+date: YYYY-MM-DD
+categories: [Homelab, Network]
+tags: [firewall, opnsense] # Tag name should always be lowercase
+description: Post covering why the firewall is important and the decisions around my choice of it.
+---
